@@ -1,0 +1,6 @@
+[17-Nov-2018 11:27:54 America/Bogota] PHP Notice:  Undefined property: stdClass::$impuesto in /home/hallcsol/demo/ajax/venta.php on line 60
+[17-Nov-2018 11:27:54 America/Bogota] PHP Stack trace:
+[17-Nov-2018 11:27:54 America/Bogota] PHP   1. {main}() /home/hallcsol/demo/ajax/venta.php:0
+[17-Nov-2018 11:27:54 America/Bogota] PHP Notice:  Undefined property: stdClass::$impuesto in /home/hallcsol/demo/ajax/venta.php on line 62
+[17-Nov-2018 11:27:54 America/Bogota] PHP Stack trace:
+[17-Nov-2018 11:27:54 America/Bogota] PHP   1. {main}() /home/hallcsol/demo/ajax/venta.php:0

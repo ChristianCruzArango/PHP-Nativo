@@ -1,0 +1,12 @@
+[17-Nov-2018 11:12:39 America/Bogota] PHP Warning:  A non-numeric value encountered in /home/hallcsol/demo/reportes/Letras.php on line 205
+[17-Nov-2018 11:12:39 America/Bogota] PHP Stack trace:
+[17-Nov-2018 11:12:39 America/Bogota] PHP   1. {main}() /home/hallcsol/demo/reportes/exFactura.php:0
+[17-Nov-2018 11:12:39 America/Bogota] PHP   2. EnLetras->ValorEnLetras() /home/hallcsol/demo/reportes/exFactura.php:87
+[17-Nov-2018 11:12:39 America/Bogota] PHP   3. EnLetras->SubValLetra() /home/hallcsol/demo/reportes/Letras.php:50
+[17-Nov-2018 11:12:39 America/Bogota] PHP   4. EnLetras->Parte() /home/hallcsol/demo/reportes/Letras.php:87
+[17-Nov-2018 11:12:39 America/Bogota] PHP Warning:  A non-numeric value encountered in /home/hallcsol/demo/reportes/Letras.php on line 205
+[17-Nov-2018 11:12:39 America/Bogota] PHP Stack trace:
+[17-Nov-2018 11:12:39 America/Bogota] PHP   1. {main}() /home/hallcsol/demo/reportes/exFactura.php:0
+[17-Nov-2018 11:12:39 America/Bogota] PHP   2. EnLetras->ValorEnLetras() /home/hallcsol/demo/reportes/exFactura.php:87
+[17-Nov-2018 11:12:39 America/Bogota] PHP   3. EnLetras->SubValLetra() /home/hallcsol/demo/reportes/Letras.php:50
+[17-Nov-2018 11:12:39 America/Bogota] PHP   4. EnLetras->Parte() /home/hallcsol/demo/reportes/Letras.php:87
